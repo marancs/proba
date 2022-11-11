@@ -24,5 +24,8 @@ def Beolvasas()->[]:
 def Feladat():
     Beolvasas();
 
+
     
+    
+
 Feladat();
